@@ -1,7 +1,7 @@
 
   # Intelligent Task Manager App
 
-
+  This is a code bundle for Intelligent Task Manager App.
 
   ## Running the code
 
